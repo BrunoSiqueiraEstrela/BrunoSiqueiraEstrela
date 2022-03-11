@@ -1,4 +1,4 @@
-<h1 align="center">### Olá :3 👋</h1>
+<h1 align="center>👋 Olá :3 👋</h1>
 
 Sou Bruno Estrela, Desenvolvedor e estudando para trabalhar com desenvolvimento web.
 
