@@ -4,7 +4,8 @@ Sou Bruno Estrela, Desenvolvedor e estudando para trabalhar com desenvolvimento 
 
 Stack que estou estudando é Node.js e React
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoSiqueiraEstrela&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSiqueiraEstrela%theme=dark&layout=compact)](https://github.com/BrunoSiqueiraEstrela/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoSiqueiraEstrela&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSiqueiraEstrela%theme=dark&layout=compact)]
+
 
 Fun fact: 
   Tamém sou hobbista de impressora 3D, Tenho uma ELEGOO MARS 2 :3 e recomendo mas por favor pesquise dos cuidados de seguraça. 
