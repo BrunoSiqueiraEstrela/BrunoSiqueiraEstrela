@@ -4,7 +4,7 @@ Sou Bruno Estrela, Desenvolvedor e estudando para trabalhar com desenvolvimento 
 
 Stack que estou estudando é Node.js e React
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoSiqueiraEstrela&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSiqueiraEstrela&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoSiqueiraEstrela&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSiqueiraEstrela&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Fun fact: 
