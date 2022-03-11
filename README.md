@@ -13,7 +13,8 @@ Stack que estou estudando é Node.js e React
 
 
 <br>
- :heart: Também sou hobbista de impressora 3D, Tenho uma ELEGOO MARS 2 :3 e recomendo mas por favor pesquise dos cuidados de seguraça. 
+ :heart: ELEGOO MARS 2 :3
+ :heart: Steam
 <!--
 **BrunoSiqueiraEstrela/BrunoSiqueiraEstrela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
