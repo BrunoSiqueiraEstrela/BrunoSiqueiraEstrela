@@ -10,7 +10,7 @@ Stack que estou estudando é Node.js e React
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" style="width: 420px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSiqueiraEstrela&theme=dark&layout=compact" />
 </a>
-
+<br>
  :heart: Também sou hobbista de impressora 3D, Tenho uma ELEGOO MARS 2 :3 e recomendo mas por favor pesquise dos cuidados de seguraça. 
 <!--
 **BrunoSiqueiraEstrela/BrunoSiqueiraEstrela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
