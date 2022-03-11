@@ -5,10 +5,10 @@ Sou Bruno Estrela, Desenvolvedor e estudando para trabalhar com desenvolvimento 
 Stack que estou estudando é Node.js e React
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" style="witdh:50%;" src="https://github-readme-stats.vercel.app/api?username=BrunoSiqueiraEstrela&theme=dark&show_icons=true" />
+  <img align="center" style="width: 150px;" src="https://github-readme-stats.vercel.app/api?username=BrunoSiqueiraEstrela&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" style="witdh:50%;" style='max:50%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSiqueiraEstrela&theme=dark&layout=compact" />
+  <img align="center" style="width: 150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSiqueiraEstrela&theme=dark&layout=compact" />
 </a>
 
 Fun fact: 
