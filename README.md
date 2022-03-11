@@ -8,7 +8,7 @@ Stack que estou estudando é Node.js e React
   <img align="center" style="width: 500px;" src="https://github-readme-stats.vercel.app/api?username=BrunoSiqueiraEstrela&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" style="width: 415px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSiqueiraEstrela&theme=dark&layout=compact" />
+  <img align="center" style="width: 420px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSiqueiraEstrela&theme=dark&layout=compact" />
 </a>
 
 Fun fact: 
