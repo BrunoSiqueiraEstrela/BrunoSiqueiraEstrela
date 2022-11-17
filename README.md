@@ -15,10 +15,11 @@ Stack que estou estudando é Node.js/Python/Vue
 
 
 <br>
-  3D printer
-  ELEGOO NEPTUNE 3
-  ELEGOO MARS 2 
-  Steam
+  3D printers: 
+  <ul>
+  <li>ELEGOO NEPTUNE 3</li>
+  <li>ELEGOO MARS 2</li>
+  <ul>
 <!--
 **BrunoSiqueiraEstrela/BrunoSiqueiraEstrela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
