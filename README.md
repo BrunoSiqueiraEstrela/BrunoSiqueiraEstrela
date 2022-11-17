@@ -1,8 +1,10 @@
-<h1 align="center">👋 Olá :3 👋</h1>
+<h1 align="center">👋 oi 👋</h1>
 
-Sou Bruno Estrela, Desenvolvedor e estudando para trabalhar com desenvolvimento web.
+Sou Bruno Estrela, Desenvolvedor Back-End
 
-Stack que estou estudando é Node.js e React
+Stack que uso no trabalho é Node.js/Adonis 4.1/postgresql 
+
+Stack que estou estudando é Node.js/Python/Vue
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" style="width: 400px;" src="https://github-readme-stats.vercel.app/api?username=BrunoSiqueiraEstrela&theme=dark&show_icons=true" />
@@ -13,8 +15,10 @@ Stack que estou estudando é Node.js e React
 
 
 <br>
- :heart: ELEGOO MARS 2 :3<br>
- :heart: Steam
+  3D printer
+  ELEGOO NEPTUNE 3
+  ELEGOO MARS 2 
+  Steam
 <!--
 **BrunoSiqueiraEstrela/BrunoSiqueiraEstrela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
