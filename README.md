@@ -1,38 +1,63 @@
-<h1 align="center">👋 oi 👋</h1>
+<center>
+ <table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSiqueiraEstrela&hide=html&layout=compact&theme=tokyonight" /></td>
+      <td><img width="455px" align="left" src="https://github-readme-stats.vercel.app/api?username=BrunoSiqueiraEstrela&show_icons=true&theme=tokyonight" /></td>
+  </tr>  
+ </table>
+</center>
 
-Sou Bruno Estrela, Desenvolvedor Back-End
 
-Stack que uso no trabalho é Node.js/Adonis 4.1/postgresql 
+## :open_file_folder: Main Languages, Technologies and Tools
+<p align="center">
+    <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>&nbsp;&nbsp;
+    <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript"/>&nbsp;&nbsp;
+</p>
 
-Stack que estou estudando é Node.js/Python/Vue
+<p align="center">
+ <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"/>&nbsp;&nbsp;
+ <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AmazonWebServices"/>&nbsp;&nbsp;
+ <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS"/>&nbsp;&nbsp;
+</p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" style="width: 400px;" src="https://github-readme-stats.vercel.app/api?username=BrunoSiqueiraEstrela&theme=dark&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" style="width: 330px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSiqueiraEstrela&theme=dark&layout=compact" />
-</a>
-<br>
-<br>
-<br>
-  <p>3D printers: 
-  <ul>
-  <li>ELEGOO NEPTUNE 3</li>
-  <li>ELEGOO MARS 2</li>
-  <ul>
-    
-<!--
-**BrunoSiqueiraEstrela/BrunoSiqueiraEstrela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="Sqlite"/>&nbsp;&nbsp;
+ <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>&nbsp;&nbsp;
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub"/>&nbsp;&nbsp;
+    <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/>&nbsp;&nbsp;
+   <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" alt="BitBucket"/>&nbsp;&nbsp;
+</p>
+<br><br/>
+
+## :open_file_folder: Studying
+<p align="center">
+    <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy"/>&nbsp;&nbsp;
+    <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI"/>&nbsp;&nbsp;
+     <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest"/>&nbsp;&nbsp;
+</p>
+
+
+
+# :sunglasses: Social
+<p align="center">
+  <a target="_blank"href="mailto:brunosiqest2@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-brunosiqest2@gmail.com-0072c6?style=flat-square&labelColor=0072c6&logo=gmail&logoColor=white&link="brunosiqest2@gmail.com" /></a> &nbsp;
+
+  <a target="_blank" href="https://www.linkedin.com/in/bruno-estrela/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-BrunoEstrela-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/></a> &nbsp;
+
+  <a target="_blank" href="https://api.whatsapp.com/send?phone=5512996225124&text=Ol%C3%A1!!!" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/></a> &nbsp;
+
+
+</p>  
+<br><br/>
+
+
+
+
 
