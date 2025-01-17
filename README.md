@@ -34,12 +34,6 @@
 </p>
 <br><br/>
 
-## :open_file_folder: Studying
-<p align="center">
-     <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest"/>&nbsp;&nbsp;
-</p>
-
-
 
 # :sunglasses: Social
 <p align="center">
