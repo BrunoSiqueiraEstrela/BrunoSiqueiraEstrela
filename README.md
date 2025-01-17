@@ -16,7 +16,8 @@
 
 <p align="center">
  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"/>&nbsp;&nbsp;
- <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AmazonWebServices"/>&nbsp;&nbsp;
+     <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy"/>&nbsp;&nbsp;
+    <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI"/>&nbsp;&nbsp;
  <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS"/>&nbsp;&nbsp;
 </p>
 
@@ -35,8 +36,6 @@
 
 ## :open_file_folder: Studying
 <p align="center">
-    <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy"/>&nbsp;&nbsp;
-    <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI"/>&nbsp;&nbsp;
      <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest"/>&nbsp;&nbsp;
 </p>
 
